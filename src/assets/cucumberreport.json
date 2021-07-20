@@ -1,0 +1,198 @@
+[
+  {
+    "description": "         Going Automation Page Info",
+    "elements": [
+      {
+        "description": "",
+        "id": "navigate-to-automation-page;navigating-to-automation-page",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Navigating to Automation Page",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "navigate to homepage",
+            "match": {
+              "location": "steps\\1data\\1data.steps.ts:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2883000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "Seeing the graphs",
+            "match": {
+              "location": "steps\\1data\\1data.steps.ts:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1020000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "scroll the page",
+            "match": {
+              "location": "steps\\1data\\1data.steps.ts:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1011000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "graphs can be seen",
+            "match": {
+              "location": "steps\\1data\\1data.steps.ts:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1013000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 14000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "navigate-to-automation-page",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Navigate to Automation Page",
+    "tags": [],
+    "uri": "features\\1data.feature"
+  },
+  {
+    "description": "         Going Unit Test page",
+    "elements": [
+      {
+        "description": "",
+        "id": "navigate-to-unit-test-pafe;navigating-to-unit-test-page",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Navigating to Unit Test Page",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Currently on homepage",
+            "match": {
+              "location": "steps\\2data\\2data.steps.ts:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2010000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "click on left side nav",
+            "match": {
+              "location": "steps\\2data\\2data.steps.ts:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2009000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "takes to unit test page",
+            "match": {
+              "location": "steps\\2data\\2data.steps.ts:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2019000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "Unit test reports can be seen",
+            "match": {
+              "location": "steps\\2data\\2data.steps.ts:25"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3013000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 14000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "navigate-to-unit-test-pafe",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Navigate to Unit Test Pafe",
+    "tags": [],
+    "uri": "features\\2data.feature"
+  }
+]

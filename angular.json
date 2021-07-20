@@ -21,7 +21,12 @@
             "aot": true,
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/assets/styles.css",
+              "src/assets/coverage",
+              "src/assets/automation",
+              "src/automation/report",
+              "src/automation"
             ],
             "styles": [
               "src/styles.css"
@@ -120,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "sample-project"
+  "defaultProject": "sample-project",
+  "cli": {
+    "analytics": false
+  }
 }

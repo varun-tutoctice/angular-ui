@@ -1,0 +1,458 @@
+[
+  {
+    "description": "         Going Automation Page Info",
+    "elements": [
+      {
+        "description": "",
+        "id": "navigate-to-automation-page;navigating-to-automation-page",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Navigating to Automation Page",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "navigate to homepage",
+            "match": {
+              "location": "steps\\1data\\1data.steps.ts:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2611000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "Seeing the graphs",
+            "match": {
+              "location": "steps\\1data\\1data.steps.ts:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1005000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "scroll the page",
+            "match": {
+              "location": "steps\\1data\\1data.steps.ts:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1002000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "graphs can be seen",
+            "match": {
+              "location": "steps\\1data\\1data.steps.ts:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1015000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 27000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "navigate-to-automation-page",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Navigate to Automation Page",
+    "tags": [],
+    "uri": "features\\1data.feature"
+  },
+  {
+    "description": "         Going Unit Test page",
+    "elements": [
+      {
+        "description": "",
+        "id": "navigate-to-unit-test-pafe;navigating-to-unit-test-page",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Navigating to Unit Test Page",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Currently on homepage",
+            "match": {
+              "location": "steps\\2data\\2data.steps.ts:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2008000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "click on left side nav",
+            "match": {
+              "location": "steps\\2data\\2data.steps.ts:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2006000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "takes to unit test page",
+            "match": {
+              "location": "steps\\2data\\2data.steps.ts:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2016000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "Unit test reports can be seen",
+            "match": {
+              "location": "steps\\2data\\2data.steps.ts:25"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3009000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 13000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "navigate-to-unit-test-pafe",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Navigate to Unit Test Pafe",
+    "tags": [],
+    "uri": "features\\2data.feature"
+  },
+  {
+    "description": "         Build Information Page",
+    "elements": [
+      {
+        "description": "",
+        "id": "navigate-to-build-information-page;navigating-to-build-information-page-from-unit-test-page",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Navigating to Build Information page from unit test page",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Currently on unit test page",
+            "match": {
+              "location": "steps\\3data\\3data.steps.ts:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2013000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "click on build info in left side nav",
+            "match": {
+              "location": "steps\\3data\\3data.steps.ts:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2003000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "takes to build information page",
+            "match": {
+              "location": "steps\\3data\\3data.steps.ts:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2015000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "build information with version can be seen",
+            "match": {
+              "location": "steps\\3data\\3data.steps.ts:25"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3002000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 15000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "navigate-to-build-information-page",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Navigate to Build Information page",
+    "tags": [],
+    "uri": "features\\3data.feature"
+  },
+  {
+    "description": "         Version Number and build date",
+    "elements": [
+      {
+        "description": "",
+        "id": "checking-version-number-and-build-date;comparing-the-version-number-and-build-date",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Comparing the version number and build date",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Currently on build information page",
+            "match": {
+              "location": "steps\\4data\\4data.steps.ts:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2012000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "click on the table of build info",
+            "match": {
+              "location": "steps\\4data\\4data.steps.ts:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2010000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "check the date and version number",
+            "match": {
+              "location": "steps\\4data\\4data.steps.ts:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2014000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "we can find the current build information",
+            "match": {
+              "location": "steps\\4data\\4data.steps.ts:25"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3009000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 15000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "checking-version-number-and-build-date",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Checking Version Number and Build date",
+    "tags": [],
+    "uri": "features\\4data.feature"
+  }
+]
